@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<LABS >  
+	<LAB >  
+		<NAME><![CDATA[AC135]]></NAME> 
+		<INUSE><![CDATA[3]]></INUSE> 
+		<AVAILABLE><![CDATA[23]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[BC002]]></NAME> 
+		<INUSE><![CDATA[2]]></INUSE> 
+		<AVAILABLE><![CDATA[30]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[BC015]]></NAME> 
+		<INUSE><![CDATA[1]]></INUSE> 
+		<AVAILABLE><![CDATA[30]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[LC400]]></NAME> 
+		<INUSE><![CDATA[8]]></INUSE> 
+		<AVAILABLE><![CDATA[82]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[LC426]]></NAME> 
+		<INUSE><![CDATA[1]]></INUSE> 
+		<AVAILABLE><![CDATA[28]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[SC001]]></NAME> 
+		<INUSE><![CDATA[0]]></INUSE> 
+		<AVAILABLE><![CDATA[30]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[AL906]]></NAME> 
+		<INUSE><![CDATA[0]]></INUSE> 
+		<AVAILABLE><![CDATA[6]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[AL911]]></NAME> 
+		<INUSE><![CDATA[3]]></INUSE> 
+		<AVAILABLE><![CDATA[21]]></AVAILABLE> 
+	</LAB> 
+	<LAB > 
+		<NAME><![CDATA[AL910]]></NAME> 
+		<INUSE><![CDATA[1]]></INUSE> 
+		<AVAILABLE><![CDATA[15]]></AVAILABLE> 
+	</LAB> 
+</LABS>
